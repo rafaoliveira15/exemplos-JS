@@ -108,5 +108,6 @@ Revisão de conceitos básicos
 
 ## 👩‍💻 Autora
 
-Rafaela 💙
+Rafaela Oliveira 💙
+
 Estudante de Desenvolvimento de Sistemas.
