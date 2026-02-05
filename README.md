@@ -13,6 +13,7 @@ ex1.html
 ex2.html
 ex3.html
 ex4.html
+ex5.html
 README.md
 ```
 
@@ -91,6 +92,34 @@ Solicita dois números ao usuário, realiza a soma e exibe o resultado na tela.
 ### 💡 Observação
 
 A conversão com parseInt() é necessária porque o prompt retorna valores no formato de texto.
+
+---
+
+## 🧪 Exemplo 5 — Máquina de Frutas (Suco Personalizado) (ex5.html)
+
+### 🔎 O que faz?
+
+Simula uma máquina de sucos interativa, onde o usuário pode escolher uma ou mais frutas, o tipo de líquido (água ou leite) e se deseja açúcar. Ao final, uma mensagem personalizada mostra como ficou o suco.
+
+### 📌 Conceitos abordados
+
+<select multiple> para seleção múltipla
+
+Botões de rádio (radio) e caixas de seleção (checkbox)
+
+Manipulação do DOM com getElementById e querySelector
+
+Uso de arrays (Array.from, map, join)
+
+Funções em JavaScript
+
+Validação de entrada do usuário
+
+Uso de alert()
+
+### 💡 Observação
+
+Este exemplo é mais avançado e demonstra interação completa com o usuário, lógica condicional e manipulação de vários tipos de campos HTML ao mesmo tempo.
 
 ---
 
