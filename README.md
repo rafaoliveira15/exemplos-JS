@@ -14,6 +14,7 @@ ex2.html
 ex3.html
 ex4.html
 ex5.html
+ex6.html
 README.md
 ```
 
@@ -114,6 +115,34 @@ Simula uma **máquina de sucos interativa**, onde o usuário pode escolher uma o
 ### 💡 Observação
 
 Este exemplo é mais avançado e demonstra **interação completa com o usuário**, lógica condicional e manipulação de vários tipos de campos HTML ao mesmo tempo.
+
+---
+
+## 🧪 Exemplo 6 — Calculadora de Intervalo entre Datas (ex6.html)
+
+### 🔎 O que faz?
+
+Calcula o intervalo entre duas datas informadas pelo usuário, exibindo a diferença em dias, meses (aproximado) e anos (aproximado).
+
+### 📌 Conceitos abordados
+
+Campos de data (input type="date")
+
+Validação de formulário
+
+Manipulação do DOM (getElementById, innerHTML)
+
+Uso do objeto Date em JavaScript
+
+Cálculo de diferença entre datas em milissegundos
+
+Funções e eventos de clique
+
+Template literals (`texto ${variavel}`)
+
+### 💡 Observação
+
+Os cálculos de meses e anos são aproximados (30 dias por mês e 12 meses por ano), adequados para fins didáticos. O exemplo também inclui estilização com CSS interno e boas práticas de organização do código.
 
 ---
 
